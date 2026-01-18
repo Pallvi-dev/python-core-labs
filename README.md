@@ -1,9 +1,16 @@
-# Python Core Labs
+# Python Core Labs 🧪🐍
 
-This repository contains practice projects and core Python concepts.
+This repository contains my hands-on Python practice, covering:
 
-## Folder Structure
-- **DSA** – Data Structures & Algorithms
-- **Student** – Student-related Python programs
-- **Tasks** – Daily/Practice tasks
-- **Text_Analyzer** – Text analysis mini project
+- Data Structures & Algorithms (DSA)
+- Core Python concepts
+- Functional programming (map, filter, zip)
+- Error handling
+- Small problem-solving tasks
+
+## Goal
+To build strong Python fundamentals and progress toward
+advanced backend, AI, and real-world projects.
+
+## Status
+🚀 Actively improving and adding advanced concepts.
